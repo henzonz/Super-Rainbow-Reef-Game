@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Super-Rainbow-Reef-Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Super_Rainbow_Reef_Game_jar</output-path>
+    <root id="archive" name="Super-Rainbow-Reef-Game.jar">
+      <element id="module-output" name="Super-Rainbow-Reef-Game" />
+    </root>
+  </artifact>
+</component>
